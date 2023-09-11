@@ -10,17 +10,7 @@ Welcome to my coding problem solutions repository! Here, you'll find solutions t
 
 ## Progress
 
-- Day 1:  
-  - Code 1: [Scheduling] (https://unstop.com/code/challange-asesment/250752?moduleId=372)
-- Day 3:  
-  - Code 2: [Mocha’s Alien dictionary] (https://unstop.com/code/challange-asesment/250171?moduleId=407)
-  - Code 3: [City Biker] (https://unstop.com/code/challange-asesment/250171?moduleId=407)
-- Day 4:  
-  - Code 2: [AB string] (https://unstop.com/code/challange-asesment/250489?moduleId=408)
-  - Code 3: [Am i N repeated in 2N ?] (https://unstop.com/code/challange-asesment/250490?moduleId=408)
-- Day 5:  
-  - Code 1: [Ravi Caught in Strings] (https://unstop.com/code/challange-asesment/250143?moduleId=409)
-  - Code 2: [Exchanging Gifts] (https://unstop.com/code/challange-asesment/250196?moduleId=409)
+-  Code 1: [Reverse the Array] ([https://unstop.com/code/challange-asesment/250752?moduleId=372](https://www.codingninjas.com/studio/problems/reverse-the-array_1262298))
 
 ## Technologies Used
 
